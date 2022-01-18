@@ -1,5 +1,7 @@
 from math import sqrt
 
+#Naive solution with O(sqrt(n)) time complexity.
+
 def primality(n):
     if n <= 1:
         return "Not prime"
