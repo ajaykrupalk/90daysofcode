@@ -2,6 +2,9 @@
 <p>
     Big-O Notation represents the upper bound of the running time of an algorithm. Thus, it gives the worst-case complexity of an algorithm.
 </p>
+O(1) < O(log(n)) <  O(n^0.5) < O(n) < O(n^2) < O(n^3) < O(2^n)
+<br>
+
 <h3>Steps to follow for Big-O Notation</h3>
  1. Different steps get added
 
