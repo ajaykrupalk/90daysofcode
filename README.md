@@ -3,7 +3,7 @@
     Big-O Notation represents the upper bound of the running time of an algorithm. Thus, it gives the worst-case complexity of an algorithm.
 </p>
 <h3>Steps to follow for Big-O Notation</h3>
-1. Different steps get added
+ 1. Different steps get added
 
 ```python
 def something():
