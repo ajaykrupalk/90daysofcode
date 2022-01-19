@@ -17,4 +17,4 @@ def primality(n):
             return "Not prime"
     return "Prime"
 
-print(primality(3))
+print(primality(3)) 
