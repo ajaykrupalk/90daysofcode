@@ -23,8 +23,8 @@ def fib(n):
     return fib(n-1)+fib(n-2)
 ```
 
-<br><br>
-For example, if we wanted to find the fibonacci of 4
+<br>
+For example, if we wanted to find the fibonacci of 4:
 <br><br>
 
 fib(4) will break down to fib(3) and fib(2)
@@ -39,8 +39,6 @@ fib(0) will return 0
   <li>It is defined as a general algorithmic technique that considers searching every possible combination in order to solve a computational problem.
   <li>It uses Brute-force approach i.e. tries out all possible combinations and returns the best or desired solutions
 </ul>
-
-<br>
   
 A <a href="https://cdn.programiz.com/sites/tutorial2program/files/ba-state-space-tree.png">space state tree<a/> is used to represent the solutions to a problem statement
 <br>  
