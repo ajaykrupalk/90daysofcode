@@ -2,8 +2,7 @@
 <ul>
     <li>
         Video: 
-        <iframe width="800" height="450" src="https://www.youtube.com/embed/v4cd1O4zkGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </li>
+        https://youtu.be/v4cd1O4zkGw
     <li>
         Theory:
         https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
