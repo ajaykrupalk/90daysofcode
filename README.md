@@ -25,14 +25,14 @@ def fib(n):
 
 <br>
 For example, if we wanted to find the fibonacci of 4:
-<br><br>
+<br>
 
-fib(4) will break down to fib(3) and fib(2)
-fib(3) will break down to fib(2) and fib(1)
-fib(2) will break down to fib(1) and fib(0)
-fib(1) will return 1
-fib(0) will return 0
-<br><br>
+fib(4) will break down to fib(3) and fib(2)<br>
+fib(3) will break down to fib(2) and fib(1)<br>
+fib(2) will break down to fib(1) and fib(0)<br>
+fib(1) will return 1<br>
+fib(0) will return 0<br>
+<br>
 
 <h3>Backtracking:</h3>
 <ul>
