@@ -2,15 +2,15 @@
 
 <h3>Resources:</h3>
 <li> Video for recursion: https://youtu.be/KEEKn7Me-ms
+<li> Theory for recursion: https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/topics
 <li> Video for backtracking: https://youtu.be/DKCbsiDBN6c
 <li> Theory for backtracking: https://www.programiz.com/dsa/backtracking-algorithm
-  
 <br>
 
 <h3>Recursion:</h3>
 Recursion is when a function calls itself. Every recursive function must have a base case or a stopping point. 
 <br>
-  
+
 This is an extremely important algorithmic concept that involves splitting a problem into two parts: a base case and a recursive case. The problem is divided into smaller subproblems which are then solved recursively until such time as they are small enough and meet some base case; once the base case is met, the solutions for each subproblem are combined and their result is the answer to the entire problem.
 <br>
   
