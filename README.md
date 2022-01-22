@@ -3,9 +3,9 @@
 
 <h3>Recursive Digit Sum</h3>
 <li>Problem Statement: https://www.hackerrank.com/challenges/recursive-digit-sum/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking
-<li>Logic:
-1. Take input of a number and the number of times it has to be appended to e.g. 9875 6
-2. Find the sum of digits until it is a number < 10 e.g. for superDigit(9875) sum of digits < 10 = 2
-3. Now take 8 and multiply it by k(the number of times it has to be appended to) e.g. 2*6 = 12
-4. Since 12 is >=10 find the sum of digits until it is a single digit which is = 3
-5. Return 3 as the super digit
+<h4>Logic:</h4>
+1. Take input of a number and the number of times it has to be appended to e.g. 9875 6 <br>
+2. Find the sum of digits until it is a number < 10 e.g. for superDigit(9875) sum of digits < 10 = 2 <br>
+3. Now take 8 and multiply it by k(the number of times it has to be appended to) e.g. 2*6 = 12 <br>
+4. Since 12 is >=10 find the sum of digits until it is a single digit which is = 3 <br>
+5. Return 3 as the super digit<br>
