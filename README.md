@@ -7,7 +7,7 @@
 
 <h3>N-Queens Problem</h3>
 The problem statement is that no two queens should be under attack.<br>
-Two queens are under attack if thet are in:<br>
+Two queens are under attack if they are in:<br>
 1. Same row<br>
 2. Same column<br>
 3. Same diagonal<br>
